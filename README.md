@@ -1,4 +1,4 @@
-# Script bash to test brute force in your wordpress website
+### Script bash to test brute force in your wordpress website
 
 ## steps to run
 * Download the script and in the local run this command (in the terminal)
